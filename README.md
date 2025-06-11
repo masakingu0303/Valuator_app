@@ -6,17 +6,17 @@ AI解析によりブランド名、商品名、定価、相場が表示される
 
 
 ##  使用技術スタック 
-フロントエンド React (TypeScript) + Vite
-スタイリング Tailwind CSS + DaisyUI
-バックエンド Node.js + Express
-AI連携 OpenAI API
-環境変数管理 dotenv
+* フロントエンド React (TypeScript) + Vite
+* スタイリング Tailwind CSS + DaisyUI
+* バックエンド Node.js + Express
+* AI連携 OpenAI API
+* 環境変数管理 dotenv
 
 
 ##  実行環境
 MacBook Air　MacOSバージョン14.5 メモリ8G
 
 ##  今後の機能拡張案
-ユーザー認証機能（ログイン／ログアウト）
-保存履歴機能（過去の解析結果を一覧表示）
-ソート・フィルタリング（相場価格順、ブランド別など）
+* ユーザー認証機能（ログイン／ログアウト）
+* 保存履歴機能（過去の解析結果を一覧表示）
+* ソート・フィルタリング（相場価格順、ブランド別など）
