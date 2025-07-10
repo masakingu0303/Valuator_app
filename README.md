@@ -1,4 +1,4 @@
-# 商品鑑定アプリ
+# AI商品鑑定アプリ
 
 ![サンプル画像](frontend/public/image01.png)
 ![サンプル画像](frontend/public/image02.png)
