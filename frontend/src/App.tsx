@@ -42,6 +42,8 @@ const App = () => {
     }
   };
 
+  
+
   return (
     <div className="bg-base-200 min-h-screen flex items-center justify-center p-6">
       <div className="w-full max-w-md bg-base-100 shadow-lg rounded-lg p-6 space-y-6">
